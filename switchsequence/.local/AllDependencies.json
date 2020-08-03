@@ -1729,9 +1729,9 @@
     "restore": {
       "projectUniqueName": "switchsequence",
       "projectName": "switchsequence",
-      "projectPath": "C:\\Users\\naveen.g\\Documents\\UiPath\\switchsequence\\.local",
+      "projectPath": "C:\\Users\\naveen.g\\Documents\\RPAbots\\RPAbots\\switchsequence\\.local",
       "packagesPath": "C:\\Users\\naveen.g\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\naveen.g\\Documents\\UiPath\\switchsequence\\.local"
+      "outputPath": "C:\\Users\\naveen.g\\Documents\\RPAbots\\RPAbots\\switchsequence\\.local"
     },
     "frameworks": {
       "net461": {
